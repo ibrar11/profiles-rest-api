@@ -1,0 +1,4 @@
+{
+    "venvPath": "/home/vagrant/env/bin/python",
+    "reportMissingModuleSource": "error"
+}
